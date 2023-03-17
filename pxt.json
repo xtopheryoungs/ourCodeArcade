@@ -1,0 +1,25 @@
+{
+    "name": "educationcontent",
+    "version": "8.0.2",
+    "dependencies": {
+        "core": "*",
+        "builder": "*"
+    },
+    "files": [
+        "tutorials/x-noCoding.md",
+        "tutorials/0-helloWorld.md",
+        "tutorials/1-events.md",
+        "tutorials/2-sequencing.md",
+        "tutorials/3-repeat.md",
+        "tutorials/4-if.md", 
+        "tutorials/5-while.md"
+    ],
+    "targetVersions": {
+        "target": "1.6.8",
+        "targetId": "minecraft"
+    },
+    "supportedTargets": [
+        "minecraft"
+    ],
+    "preferredEditor": "tsprj"
+}
