@@ -12,7 +12,13 @@
         "tutorials/2-sequencing.md",
         "tutorials/3-repeat.md",
         "tutorials/4-if.md", 
-        "tutorials/5-while.md"
+        "tutorials/5-while.md",
+        "solutions/0-helloWorld.md",
+        "solutions/1-events.md",
+        "solutions/2-sequencing.md",
+        "solutions/3-repeat.md",
+        "solutions/4-if.md",
+        "solutions/5-while.md"
     ],
     "targetVersions": {
         "target": "1.6.8",
