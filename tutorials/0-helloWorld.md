@@ -20,33 +20,33 @@ This area you're reading right now is the tutorial page which provides instructi
 
 The large gray area on the right side of the CodeBuilder window is the workspace where you can place code blocks to create your program.
 
-To the left of the workspace is the toolbox, which has categories or drawers for different code blocks that you can drag into the workspace.
+To the left of the workspace is the toolbox, which has categories or drawers of different code blocks that you can drag into the workspace.
 
 #### ~ tutorialhint
 
 You can remove a block from the workspace by dragging it into the toolbox.  Alternatively, you can select a block in the workspace and press Delete on your keyboard.
 
-Try deleting the ``||player:on chat command||`` block.  Then try using the Undo button to bring it back and the Redo button to remove it once more.
+Try deleting the ``||player:on chat command||`` block.  
 
 ## Step 3
 
-In the lower right corner of the workspace are several buttons.  The large green button is the Play button, which will close the CodeBuilder window and run your code.
+In the lower right corner of the workspace are several buttons.  The large green button is the Play button which will close the CodeBuilder window and run your code.
 
 The + and - buttons control the zoom level of the workspace, though they may not appear if the CodeBuilder window is too small.
 
-The arrow buttons undo and redo actions performed in the workspace.
+The arrow buttons undo and redo actions performed in the workspace.  Try using the Undo button to bring back the block you deleted earlier; press the Redo button to remove it once more.
 
 #### ~ tutorialhint
 
 On the edge of the CodeBuilder window are an X button and a menu button.  
 
-Pressing the X button (or pressing Esc on  your keyboard) closes the CodeBuilder window.  
+Pressing the X button (or Esc on your keyboard) closes the CodeBuilder window.  
 
 The menu contains buttons that can change the size of the CodeBuilder window and swap which side of the screen it appears on.
 
 ## Step 4
 
-Drag a ``||player:say||`` block into the ``||loops:on start||`` block and changet the text inside it to say "Hello, World!"
+Drag a ``||player:say||`` block into the ``||loops:on start||`` block and change the text inside it to say "Hello, World!"
 
 Press the Play button to run your code.
 
