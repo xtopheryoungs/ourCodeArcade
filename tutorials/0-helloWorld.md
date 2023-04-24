@@ -18,19 +18,19 @@ Press the Next button to turn to the next page in the tutorial.
 
 This area you're reading right now is the tutorial page which provides instructions on what to do.  
 
-The large gray area on the right side of the CodeBuilder window is the workspace where you can place code blocks to create your program.
+The large gray area in the CodeBuilder window is the workspace where you can place code blocks to create your program.
 
-To the left of the workspace is the toolbox, which has categories or drawers of different code blocks that you can drag into the workspace.
+To the left of the workspace is the toolbox, which has categories of different code blocks that you can drag into the workspace.
 
 #### ~ tutorialhint
 
-You can remove a block from the workspace by dragging it into the toolbox.  Alternatively, you can select a block in the workspace and press Delete on your keyboard.
+You can remove a block from the workspace by dragging it into the toolbox.
 
 Try deleting the ``||player:on chat command||`` block.  
 
 ## Step 3
 
-In the lower right corner of the workspace are several buttons.  The large green button is the Play button which will close the CodeBuilder window and run your code.
+In the lower right corner of the workspace are several buttons.  The green Play button will close the CodeBuilder window and run your code.
 
 The + and - buttons control the zoom level of the workspace, though they may not appear if the CodeBuilder window is too small.
 
