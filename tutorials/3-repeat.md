@@ -52,13 +52,32 @@ The ``||agent:agent destroy||`` block is another useful agent capability.  Like 
 The ``||agent:agent destroy||`` block can only target Minecraft blocks that are adjacent to the agent.  The agent can't destroy something that's two blocks away.
 
 ```ghost
-player.onChat("run", function () {
+player.onChat("part3", function () {
     for (let index = 0; index < 4; index++) {
-        player.say(":)")
-        agent.move(FORWARD, 1)
-        agent.turn(LEFT_TURN)
-        agent.interact(FORWARD)
+        agent.move(FORWARD, 2)
+        agent.move(UP, 1)
+        agent.interact(DOWN)
+    }
+})
+player.onChat("part2", function () {
+    for (let index = 0; index < 7; index++) {
         agent.destroy(FORWARD)
+        agent.move(FORWARD, 1)
+    }
+    agent.interact(FORWARD)
+})
+player.onChat("part4", function () {
+    for (let index = 0; index < 10; index++) {
+        agent.interact(LEFT)
+        agent.turn(LEFT_TURN)
+        agent.turn(LEFT_TURN)
+        agent.move(UP, 1)
+    }
+})
+player.onChat("part1", function () {
+    for (let index = 0; index < 4; index++) {
+        agent.move(FORWARD, 2)
+        agent.interact(FORWARD)
     }
 })
 ```
