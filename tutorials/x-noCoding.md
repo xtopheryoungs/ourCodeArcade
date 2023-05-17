@@ -4,18 +4,18 @@
 
 ### Introduction step @showdialog
 
-![NEW Gif test](/static/sim.gif)
+![PNG test](/static/small.png)
 
 ### Step 1 :)
 
-NEW agent set block, agent place. test 
+agent set block, agent place. test 
 
 ## Activity 2
 
 ### Introduction step @showdialog
 
-![NEW Gif test again](/static/sim.gif)
+![PNG test again](/static/small.png)
 
 ### Step 1 :(
 
-NEW if statements
+if statements
