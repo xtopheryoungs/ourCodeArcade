@@ -4,17 +4,17 @@
 
 ### Introduction step @showdialog
 
-![Show the gif](https://raw.githubusercontent.com/xtopheryoungs/ourCodeArcade/main/gifs/sim.gif)
+![Gif test](/static/sim.png)
 
 ### Step 1 :)
 
-agent set block, agent place. test ![URL](www.youtube.com)
+agent set block, agent place. test 
 
 ## Activity 2
 
 ### Introduction step @showdialog
 
-![Show the gif](https://raw.githubusercontent.com/xtopheryoungs/ourCodeArcade/main/gifs/sim.gif)
+![Gif test again](/static/sim.png)
 
 ### Step 1 :(
 
