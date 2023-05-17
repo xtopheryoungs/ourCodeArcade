@@ -1,6 +1,6 @@
 # Events
 
-## Time to code! @showhint
+## Time to code! @showdialog
 
 Is there a gif below?
 
