@@ -4,7 +4,7 @@
 
 ### Introduction step @showdialog
 
-![Gif test](/static/sim.png)
+![Gif test](/static/sim.gif)
 
 ### Step 1 :)
 
@@ -14,7 +14,7 @@ agent set block, agent place. test
 
 ### Introduction step @showdialog
 
-![Gif test again](/static/sim.png)
+![Gif test again](/static/sim.gif)
 
 ### Step 1 :(
 
