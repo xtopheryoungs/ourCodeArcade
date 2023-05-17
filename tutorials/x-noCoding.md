@@ -21,3 +21,12 @@ agent set block, agent place. test
 ### Step 1 :(
 
 if statements
+
+```ghost
+player.onChat("run", function () {
+    agent.move(FORWARD, 1)
+})
+```
+```template
+player.say("Say and move only.")
+```
