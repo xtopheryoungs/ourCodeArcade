@@ -6,7 +6,7 @@
 
 ### Introduction step @showdialog
 
-![PNG test](/static/small.png)
+![JPG test](/static/tiny.jpg)
 
 ### Step 1 :)
 
@@ -16,7 +16,7 @@ agent set block, agent place. test
 
 ### Introduction step @showdialog
 
-![PNG test again](/static/small.png)
+![JPG test again](/static/tiny.jpg)
 
 ### Step 1 :(
 
