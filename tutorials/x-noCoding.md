@@ -1,11 +1,21 @@
-# Events
+### @activities true
 
-## Time to code! @showdialog
+## First Activity
 
-Is there a gif below?
+### Introduction step @showdialog
 
 ![Show the gif](/gifs/sim.gif)
 
-## Step 1
+### Step 1 :)
 
-Talk to the NPC and select a lesson to get started coding.
+Instructions for step 1 of activity 1 here...
+
+### Step 2 :|
+
+Instructions for step 2 of activity 1 here...
+
+## Activity 2
+
+### Step 1 :(
+
+Instructions for step 1 of activity 2 here...
