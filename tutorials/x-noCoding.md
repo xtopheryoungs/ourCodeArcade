@@ -4,7 +4,7 @@
 
 ### Introduction step @showdialog
 
-![Show the gif](/gifs/sim.gif)
+![Show the gif](https://github.com/xtopheryoungs/ourCodeArcade/blob/main/gifs/sim.gif)
 
 ### Step 1 :)
 
