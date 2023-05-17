@@ -18,7 +18,8 @@
         "solutions/2-sequencing.md",
         "solutions/3-repeat.md",
         "solutions/4-if.md",
-        "solutions/5-while.md"
+        "solutions/5-while.md",
+        "docs/project/test.md"
     ],
     "targetVersions": {
         "target": "1.6.8",
