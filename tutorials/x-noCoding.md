@@ -8,17 +8,14 @@
 
 ### Step 1 :)
 
-Instructions for step 1 of activity 1 here...
-
-### Step 2 @showdialog
-![the gif again!](https://raw.githubusercontent.com/xtopheryoungs/ourCodeArcade/main/gifs/sim.gif)
-
-### Step 3 :|
-
-Instructions for step 2 of activity 1 here...
+agent set block, agent place. test ![URL](www.youtube.com)
 
 ## Activity 2
 
+### Introduction step @showdialog
+
+![Show the gif](https://raw.githubusercontent.com/xtopheryoungs/ourCodeArcade/main/gifs/sim.gif)
+
 ### Step 1 :(
 
-Instructions for step 1 of activity 2 here...
+if statements
