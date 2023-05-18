@@ -4,9 +4,9 @@
 
 ## First Activity
 
-### Introduction step @showdialog
+### Sim.gif @showdialog
 
-![](/docs/static/sim.gif)
+![](/static/sim.gif)
 
 ### Step 1 :)
 
@@ -14,9 +14,9 @@ agent set block, agent place. test
 
 ## Activity 2
 
-### Introduction step @showdialog
+### tiny.jpg @showdialog
 
-![](/docs/static/tiny.jpg)
+![](/static/tiny.jpg)
 
 ### Step 1 :(
 
