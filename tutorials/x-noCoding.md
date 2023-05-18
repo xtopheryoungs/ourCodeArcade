@@ -6,7 +6,7 @@
 
 ### Introduction step @showdialog
 
-![](/static/sim.gif)
+![](/docs/static/sim.gif)
 
 ### Step 1 :)
 
@@ -16,7 +16,7 @@ agent set block, agent place. test
 
 ### Introduction step @showdialog
 
-![](/static/tiny.jpg)
+![](/docs/static/tiny.jpg)
 
 ### Step 1 :(
 
