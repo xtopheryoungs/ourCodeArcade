@@ -8,7 +8,7 @@
 
 Does it work?
 
-![](https://raw.githubusercontent.com/xtopheryoungs/ourCodeArcade/main/docs/static/sim.gif)
+![](/static/sim.gif)
 
 ### Welcome
 
@@ -20,7 +20,7 @@ agent set block, agent place. test
 
 here's something cool
 
-![](https://raw.githubusercontent.com/xtopheryoungs/ourCodeArcade/main/docs/static/tiny.jpg)
+![](/static/tiny.jpg)
 
 ### Hello, world
 
