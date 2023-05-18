@@ -6,7 +6,7 @@
 
 ### Sim.gif @showdialog
 
-![](/static/sim.gif)
+![some text](/static/sim.gif)
 
 ### Step 1 :)
 
@@ -16,7 +16,7 @@ agent set block, agent place. test
 
 ### tiny.jpg @showdialog
 
-![](/static/tiny.jpg)
+![minecraft icon](/static/tiny.jpg)
 
 ### Step 1 :(
 
