@@ -6,7 +6,7 @@
 
 ### Sim.gif @showdialog
 
-Does it work?
+relative URL /static/sim.gif
 
 ![](/static/sim.gif)
 
@@ -18,9 +18,9 @@ agent set block, agent place. test
 
 ### tiny.jpg @showdialog
 
-here's something cool
+relative URL /docs/static/tiny.jpg
 
-![](/static/tiny.jpg)
+![](/docs/static/tiny.jpg)
 
 ### Hello, world
 
