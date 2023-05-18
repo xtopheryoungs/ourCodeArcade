@@ -6,9 +6,9 @@
 
 ### Sim.gif @showdialog
 
-![some text](/docs/static/sim.gif)
+![some text](/static/sim.gif)
 
-### Step 1 :)
+### Welcome
 
 agent set block, agent place. test 
 
@@ -16,9 +16,9 @@ agent set block, agent place. test
 
 ### tiny.jpg @showdialog
 
-![minecraft icon](/docs/static/tiny.jpg)
+![minecraft icon](/static/tiny.jpg)
 
-### Step 1 :(
+### Hello, world
 
 if statements
 
