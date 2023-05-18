@@ -19,7 +19,10 @@
         "solutions/3-repeat.md",
         "solutions/4-if.md",
         "solutions/5-while.md",
-        "docs/project/test.md"
+        "docs/project/test.md",
+        "docs/static/tiny.jpg",
+        "docs/static/sim.gif",
+        "docs/static/small.png"
     ],
     "targetVersions": {
         "target": "1.6.8",
