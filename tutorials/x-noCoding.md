@@ -6,7 +6,9 @@
 
 ### Sim.gif @showdialog
 
-![some text](/static/sim.gif)
+Does it work?
+
+![](https://raw.githubusercontent.com/xtopheryoungs/ourCodeArcade/main/docs/static/sim.gif)
 
 ### Welcome
 
@@ -16,7 +18,9 @@ agent set block, agent place. test
 
 ### tiny.jpg @showdialog
 
-![minecraft icon](/static/tiny.jpg)
+here's something cool
+
+![](https://raw.githubusercontent.com/xtopheryoungs/ourCodeArcade/main/docs/static/tiny.jpg)
 
 ### Hello, world
 
